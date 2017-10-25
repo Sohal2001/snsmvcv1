@@ -55,6 +55,8 @@
 <td><input type="button" value="Submit" ng-click="postdata(name, email, message)"> </td>
 </tr>
 </table>
+<p>Output Message : {{msg}}</p>
+
 </div>
 </body>
 </html>           
