@@ -1,6 +1,10 @@
 com\sns\dao\ContactUSDao.class
-com\sns\dao\ContactUSDaoImpl.class
 com\sns\bo\ContactUSBOImpl.class
-com\sns\controller\HelloController.class
-com\sns\model\ContactUS.class
+com\sns\config\SpringConfig.class
+com\sns\controller\Controller.class
 com\sns\bo\ContactUsBO.class
+com\sns\dao\ContactUSDaoImpl.class
+com\sns\model\ContactUS.class
+com\sns\config\JPAConfig.class
+com\sns\config\WebServletConfiguration.class
+com\sns\config\ServletInitializer.class
